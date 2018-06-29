@@ -41,7 +41,7 @@
     "react-native-start": "packager/packager.sh"
   },
   "dependencies": {
-    "connect": "2.8.3",
+    "connect": "2.14.0",
     "jstransform": "10.1.0",
     "react-timer-mixin": "^0.13.1",
     "react-tools": "0.13.1",
